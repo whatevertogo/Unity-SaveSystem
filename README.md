@@ -1,5 +1,4 @@
 # SaveSettingsSystem - Unity设置管理系统
-[中文](README.CN.md)
 
 [English](#savesettingssystem---unity-settings-management-system) | [中文](#savesettingssystem---unity游戏设置管理系统)
 
